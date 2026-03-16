@@ -1,0 +1,216 @@
+---
+title: "My Portfolio Website Project"
+subtitle: "Proposal Presentation"
+author: "Ari Nurhadi"
+institute: "IBM 3202, Cal Poly Pomona"
+date: "Today"
+format: 
+  revealjs:
+    theme: serif
+    width: 1600
+    height: 900
+    footer: My Portfolio Website Project
+    transition: slide
+    transition-speed: default
+    incremental: false
+    toc: true
+    toc-depth: 1
+    slide-number: true
+    scrollable: true
+    smaller: true
+    code-fold: false
+    code-overflow: wrap
+    number-sections: false
+    number-depth: 5
+    embed-resources: true
+    css: styles.css
+editor: visual
+execute: 
+  echo: true
+  freeze: auto
+---
+
+# My Portfolio Website Project
+
+**Proposal Presentation**
+
+**Ari Nurhadi**\
+**IBM 3202, Cal Poly Pomona**
+
+::: notes
+Introduce the presentation as a proposal for your portfolio website project. Explain that the website will be designed to showcase your data analysis work, projects, dashboards, and presentations.
+:::
+
+# Project Overview
+
+**What is this website project?**
+
+This project is a proposal for building a professional portfolio website that can be used to present my academic work, technical skills, and data projects in a clear and organized way.
+
+**Main purpose**
+
+-   Showcase my work in one place
+-   Build a professional online presence
+-   Support internship and job applications
+-   Demonstrate skills in data analysis and communication
+
+::: notes
+Explain that this website is both an academic project and a professional portfolio that can be useful after graduation.
+:::
+
+# Why I Want to Build This Website
+
+**Goals of the project**
+
+::: incremental
+-   Organize my course projects and assignments
+-   Present my work more professionally
+-   Share my dashboards, reports, and presentations
+-   Create a portfolio that grows over time
+:::
+
+> The website will serve as a digital portfolio that shows both technical skills and communication skills.
+
+# Planned Website Structure
+
+**Required pages**
+
+::::: columns
+::: {.column width="50%"}
+**Core Pages**
+
+-   Home Page
+-   Marketing Projects Page
+-   Dashboard Page
+:::
+
+::: {.column width="50%"}
+**Additional Pages**
+
+-   Revealjs Presentation Page
+-   Analytics Page
+-   Future project pages
+:::
+:::::
+
+::: notes
+Briefly explain that the structure follows the syllabus requirements and is designed to make the website easy to navigate.
+:::
+
+# Home Page
+
+**Purpose of the home page**
+
+The home page will introduce who I am, what I am studying, and what visitors can expect from the website.
+
+**Planned content**
+
+-   Short personal introduction
+-   Professional interests
+-   Overview of skills
+-   Navigation to major pages
+
+This page will function as the entry point to the rest of the portfolio.
+
+# Marketing Projects Page
+
+**What will appear on this page?**
+
+The projects page will showcase my work in data analysis and marketing-related problem solving.
+
+**Example content**
+
+-   Course assignments
+-   Data visualizations
+-   Case studies
+-   Written reports
+-   Project summaries with findings
+
+::: aside
+This page can contain multiple projects, which makes it one of the most important parts of the website.
+:::
+
+# Dashboard Page
+
+**Purpose of the dashboard page**
+
+The dashboard page will present key insights from data in a visual and interactive format.
+
+**Planned features**
+
+-   Summary charts
+-   Key performance indicators
+-   Interactive or embedded dashboards
+-   Clear explanations of the metrics
+
+The dashboard page will help demonstrate my ability to communicate findings visually.
+
+# Revealjs Presentation Page
+
+**Why include a Revealjs presentation page?**
+
+The website will include a page for Revealjs presentations so I can share slide-based work directly on the web.
+
+**Benefits**
+
+-   Present ideas in a structured format
+-   Share presentations through a link
+-   Combine storytelling, visuals, and analysis
+-   Build experience with web-based presentations
+
+# Analytics Page
+
+**Purpose of the analytics page**
+
+The analytics page will focus on website traffic and user behavior data.
+
+**Planned components**
+
+-   Google Analytics 4 connection
+-   Google Search Console integration
+-   BigQuery data access
+-   Looker Studio visualizations
+-   Quarto report with insights
+
+This page will help demonstrate analytical thinking by showing how website performance data can be interpreted and communicated.
+
+# Tools and Technology
+
+**What I plan to use**
+
+-   Quarto
+-   Revealjs
+-   GitHub Pages or Netlify
+-   R and Tidyverse
+-   Google Analytics 4
+-   Looker Studio
+-   CSS for styling
+
+::: notes
+Explain that these tools support both technical work and publishing, which makes the final website more professional and useful.
+:::
+
+# Why This Project Matters
+
+**Career and learning benefits**
+
+::: incremental
+-   Builds a professional online portfolio
+-   Makes projects easier to share with others
+-   Demonstrates data and communication skills
+-   Connects coursework to career preparation
+:::
+
+Overall, this project is valuable because it combines technical skills, storytelling, and professional presentation in one place.
+
+# Next Steps
+
+**What I will do next**
+
+1.  Create the basic website structure
+2.  Add project pages and content
+3.  Build and publish a Revealjs presentation
+4.  Develop analytics and dashboard components
+5.  Continue improving the site over time
+
+Thank you!
